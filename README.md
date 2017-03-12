@@ -46,6 +46,6 @@ To build program:
  - type "mvn clean package"
 
 To run program:
- - the built jar ($build_jar)is placed in /target directory
- - type "java -jar /target/${built_jar}" or "java -jar /target/${built_jar} ${file_with_payments_path}"
+ - the built jar ($build_jar)is placed in /target directory, so run "cd /target" command
+ - type "java -jar ${built_jar}" or "java -jar ${built_jar} ${file_with_payments_path}"
 
