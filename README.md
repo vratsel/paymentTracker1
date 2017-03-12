@@ -7,18 +7,18 @@ be typed into the command line, and optionally also be loaded from a file when s
 
 Sample input:
 
-USD 1000
-HKD 100
-USD -100
-RMB 2000
-HKD 200
+- USD 1000
+- HKD 100
+- USD -100
+- RMB 2000
+- HKD 200
 
 Sample output:
 
-Current Balance:
-USD 900
-RMB 2000
-HKD 300
+- Current Balance:
+- USD 900
+- RMB 2000
+- HKD 300
 
 Detailed requirements:
 
